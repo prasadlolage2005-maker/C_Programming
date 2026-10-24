@@ -3,7 +3,7 @@
 
 ///////////////////////////////////////////////////////////////////
 //
-// Function Name : CheckLeapYear
+// Function Name : CalculateDiscont
 // Input         : float
 // Descryption   : Calculate Discount
 // Date          : 22/10/2026
